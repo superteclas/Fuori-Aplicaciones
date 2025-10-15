@@ -1,4 +1,10 @@
-# 🧠 Fuori Aplicaciones
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3dd3795-28e0-4a34-8c24-8f2aea81822b" width="200" height="200" alt="Patada robótica contra ventana digital" />
+</div>
+
+
+# Fuori Aplicaciones
 
 **Fuori Aplicaciones** es una utilidad creada en **AppleScript** para macOS que cierra en un solo click las aplicaciones abiertas, sin necesidad de terminal.  
 
